@@ -1,5 +1,5 @@
 # Covid-Host-Classifier-Code
-This repo contains data and code for some of the analyses in the paper "Development and Validation of a 2-Gene Host Classifier for Rapid COVID-19 Diagnosis and Stability Against SARS-CoV-2 Variants."
+This repo contains data and code for some of the analyses in the paper "A 2-Gene Host Signature for Improved Accuracy of COVID-19 Diagnosis Agnostic to Viral Variants."
 
 These analyses are:
 1. Evaluation of 2-gene sets for predicting SARS-CoV-2 positivity using RNA-seq gene expression data from UCSF.
